@@ -1,0 +1,24 @@
+body{
+    background-color: #dddddd;
+    
+}
+
+.photo_block{
+    padding-top: 30px;
+    position: relative;
+    display: flex;
+    justify-content: center;
+}
+
+.img-responsive{
+    width: 400px;
+    height: 400px;
+
+}
+.photo_block:last-child{
+    padding-bottom: 30px;
+}
+.phone{
+    font-size: 30px;
+    color: #0039cb;
+}
